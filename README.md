@@ -1,7 +1,7 @@
 # Honors Engineering/CS Portfolio — Jacob Nguyen
 
 This repository hosts my Honors Engineering/Computer Science portfolio for 2025-2026 at Charlotte Latin.  
-- **Live site (GitHub Pages):** <PASTE YOUR PAGES URL HERE>  
+- **Live site (GitHub Pages): https://26nguyej.github.io/nguyen-jacob-portfolio/  
 - **Instructor access:** Mrs. Morrow added as collaborator.
 
 ## About Me
